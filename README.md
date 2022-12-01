@@ -1,7 +1,7 @@
 #Olá, me chamo Matheus Faustino e estou estudando para ser o melhor profissional Front-end do Mundo!
 
 <div>
-  <a href="https://github.com/matehusfaustinott">
+  <a href="https://github.com/matheusfaustinott">
   <img img width="42%" src="https://github-readme-stats.vercel.app/api?username=MatheusFaustinott&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFaustinott&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
