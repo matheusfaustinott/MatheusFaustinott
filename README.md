@@ -1,4 +1,4 @@
-#Olá, me chamo Matheus Faustino e estou estudando para ser o melhor profissional Front-end do Mundo!
+#Olá, me chamo Matheus Faustino e estou estudando para ser o melhor profissional Full-stack do Mundo!
 
 <div>
   <a href="https://github.com/matheusfaustinott">
