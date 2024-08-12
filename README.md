@@ -1,11 +1,18 @@
-![Plano de Fundo Animado](https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif)
 
-#Olá, me chamo Matheus Faustino e estou estudando para ser o melhor profissional Full-stack do Mundo!
+<p align="center">
+  <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="Plano de Fundo Animado""/>
+</p>
+
+###
+
+<h2 align="center">Bem-vindo ao meu perfil!</h2>
+
+#Olá, me chamo Matheus Faustino, sou Desenvolvedor!
 
 <div>
   <a href="https://github.com/matheusfaustinott">
   <img img width="42%" src="https://github-readme-stats.vercel.app/api?username=MatheusFaustinott&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFaustinott&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFaustinott&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ###
